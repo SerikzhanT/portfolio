@@ -12,6 +12,7 @@ const Header = () => {
           I'm fullstack developer
         </h1>
         <div className="header__text">
+          <p>with passion for learning</p>
           <p>with passion for learning and creating.</p>
         </div>
         <a href="#!" className="btn">
