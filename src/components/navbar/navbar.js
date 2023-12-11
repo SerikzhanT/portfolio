@@ -14,8 +14,6 @@ const Navbar = () => {
 
             <strong>portfolio</strong> 
 
-            <strong>Freelancer</strong> portfolio
-
           </NavLink>
 
           <BtnDarkMode />
